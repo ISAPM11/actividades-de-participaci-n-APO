@@ -1,0 +1,1 @@
+#Crear un programa que calcule la suma de los números en una lista dada.
